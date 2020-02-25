@@ -27,7 +27,7 @@ namespace azureappservice
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Wellcome to code with Rashid!");
+                await context.Response.WriteAsync("Wellcome to code with Aflak!");
             });
         }
     }
